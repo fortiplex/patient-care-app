@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Seed script to populate the database with demo data."""
+"""Seed script to populate the database with demo data. Useful for demos"""
 
 import os
 import sys
